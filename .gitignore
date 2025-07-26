@@ -1,0 +1,56 @@
+# compiled output
+red-car-api/dist
+red-car-api/node_modules
+red-car-api/build
+
+# Logs
+red-car-api/logs
+red-car-api/*.log
+red-car-api/npm-debug.log*
+red-car-api/pnpm-debug.log*
+red-car-api/yarn-debug.log*
+red-car-api/yarn-error.log*
+red-car-api/lerna-debug.log*
+
+# OS
+red-car-api/.DS_Store
+
+# Tests
+red-car-api/coverage
+red-car-api/.nyc_output
+
+# IDEs and editors
+red-car-api/.idea
+red-car-api/.project
+red-car-api/.classpath
+red-car-api/.c9/
+red-car-api/*.launch
+red-car-api/.settings/
+red-car-api/*.sublime-workspace
+
+# IDE - VSCode
+red-car-api/.vscode/*
+!red-car-api/.vscode/settings.json
+!red-car-api/.vscode/tasks.json
+!red-car-api/.vscode/launch.json
+!red-car-api/.vscode/extensions.json
+
+# dotenv environment variable files
+red-car-api/.env
+red-car-api/.env.development.local
+red-car-api/.env.test.local
+red-car-api/.env.production.local
+red-car-api/.env.local
+
+# temp directory
+red-car-api/.temp
+red-car-api/.tmp
+
+# Runtime data
+red-car-api/pids
+red-car-api/*.pid
+red-car-api/*.seed
+red-car-api/*.pid.lock
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+red-car-api/report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
